@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Bienvenida al sitio web de Agroservicios en Palmira"/>
+    <HelloWorld msg="Bienvenida al sitio web de Agroservicios Santisima Trinidad en Palmira"/>
   </div>
 </template>
 
