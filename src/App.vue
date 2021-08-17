@@ -1,7 +1,15 @@
 <template>
   <div id="app">
-    <BarraNavegacion></BarraNavegacion>
-    <router-view></router-view>
+    <header>
+      <BarraNavegacion></BarraNavegacion>
+    </header>
+
+    <section class="container">
+      <transition name="slide">
+        <router-view></router-view>
+      </transition>
+    </section>
+
   </div>
 </template>
 
