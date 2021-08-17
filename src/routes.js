@@ -26,6 +26,10 @@ export default new VueRouter({
             name: 'contactenos',
             component: require('./components/inicio/Inicio').default,
         },
+        {
+            path: '*',
+            component: require('./components/404').default,
+        }
     ],
 
     mode: 'history',
