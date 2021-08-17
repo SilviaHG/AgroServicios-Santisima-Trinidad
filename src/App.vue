@@ -1,17 +1,22 @@
 <template>
   <div id="app">
+    
     <img alt="Vue logo" src="./assets/logo.png">
+
     <HelloWorld msg="Bienvenida al sitio web de Agroservicios Santisima Trinidad en Palmira"/>
+    <foot></foot>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import foot from './components/Foot.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    foot
   }
 }
 </script>
