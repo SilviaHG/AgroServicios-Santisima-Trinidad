@@ -1,22 +1,27 @@
 <template>
   <div id="app">
     <BarraNavegacion></BarraNavegacion>
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Bienvenida al sitio web de Agroservicios Santisima Trinidad en Palmira"/>
+      
+    <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
+    <contacto></contacto>
+    <foot></foot>
+
+    
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 import BarraNavegacion from './components/BarraNavegacion.vue'
+import foot from './components/Foot.vue'
+import contacto from './components/Contacto.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
-    BarraNavegacion
+    BarraNavegacion,
+    foot,
+    contacto
   }
-
 }
 </script>
 
