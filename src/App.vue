@@ -24,7 +24,18 @@ export default {
   components: {
     BarraNavegacion,
     foot
-  }
+  },
+  title: 'Inicio',
+
+  watch: {
+    '$route': {
+      handler: (to) => {
+        document.title = to.meta.title + ' - ' + 'AgroServicios Santísima Trinidad' || 'AgroServicios Santísima Trinidad'
+      },
+
+      immediate: true
+    }
+  },
 }
 </script>
 
