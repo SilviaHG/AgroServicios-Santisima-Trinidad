@@ -1,6 +1,6 @@
 <template>
   <div id="Navegacion">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light mb-5">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
         
         <a class="navbar-brand" href="/">
