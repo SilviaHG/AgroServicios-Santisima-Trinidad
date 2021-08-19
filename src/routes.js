@@ -19,7 +19,7 @@ export default new VueRouter({
         {
             path: '/productos-construccion',
             name: 'construccion',
-            component: require('./components/inicio/Inicio').default,
+            component: require('./components/Ferreteria').default,
         },
         {
             path: '/contactenos',

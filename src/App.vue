@@ -10,18 +10,21 @@
       </transition>
     </section>
 
+    <foot></foot>
+
   </div>
 </template>
 
 <script>
 import BarraNavegacion from './components/BarraNavegacion.vue'
+import foot from './components/Foot.vue'
 
 export default {
   name: 'App',
   components: {
-    BarraNavegacion
+    BarraNavegacion,
+    foot
   }
-
 }
 </script>
 
