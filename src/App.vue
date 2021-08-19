@@ -4,7 +4,7 @@
       <BarraNavegacion></BarraNavegacion>
     </header>
 
-    <section class="container">
+    <section>
       <transition name="slide">
         <router-view></router-view>
       </transition>
