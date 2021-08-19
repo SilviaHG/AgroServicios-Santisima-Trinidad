@@ -8,13 +8,13 @@
 
         <div class="carousel-inner">
             <div class="carousel-item | active">
-                <img src="@/assets/images/products/masetera-gris.jpg" class="d-block | w-100" alt="Imagen">
+                <img src="@/assets/images/imagen_carousel_veterinaria.jpg" class="image-size-cover" alt="Imagen">
             </div>
             <div class="carousel-item">
-                <img src="@/assets/images/products/masetera-nido-pasto.jpg" class="d-block | w-100" alt="Imagen">
+                <img src="@/assets/images/products/sombreros-tipicos.jpg" class="image-size-cover" alt="Imagen">
             </div>
             <div class="carousel-item">
-                <img src="@/assets/images/products/maseteras-blanca-cafe.jpg" class="d-block | w-100" alt="Imagen">
+                <img src="@/assets/images/products/maseteras-blanca-cafe.jpg" class="image-size-cover" alt="Imagen">
             </div>
         </div>
 
@@ -34,3 +34,11 @@ export default {
     name: 'Carousel'
 }
 </script>
+
+<style>
+    .image-size-cover {
+        width: 100%;
+        height: 500px;
+        object-fit: cover;
+    }
+</style>
