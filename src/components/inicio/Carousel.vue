@@ -11,10 +11,10 @@
                 <img src="@/assets/images/imagen_carousel_veterinaria.jpg" class="image-size-cover" alt="Imagen">
             </div>
             <div class="carousel-item">
-                <img src="@/assets/images/products/sombreros-tipicos.jpg" class="image-size-cover" alt="Imagen">
+                <img src="@/assets/images/jardineria/sombreros-tipicos.jpg" class="image-size-cover" alt="Imagen">
             </div>
             <div class="carousel-item">
-                <img src="@/assets/images/products/maseteras-blanca-cafe.jpg" class="image-size-cover" alt="Imagen">
+                <img src="@/assets/images/jardineria/maseteras-blanca-cafe.jpg" class="image-size-cover" alt="Imagen">
             </div>
         </div>
 
