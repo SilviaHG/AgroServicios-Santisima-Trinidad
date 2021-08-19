@@ -24,7 +24,7 @@ export default new VueRouter({
         {
             path: '/contactenos',
             name: 'contactenos',
-            component: require('./components/inicio/Inicio').default,
+            component: require('./components/Contacto').default,
         },
         {
             path: '*',
