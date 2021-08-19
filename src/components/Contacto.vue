@@ -37,7 +37,7 @@
                     <div class="col-12 col-md-3" style="text-align: right">
                       <img
                         alt="Vue logo"
-                        src="@/assets/direccion.png"
+                        src="@/assets/images/direccion.png"
                         width="30"
                         height="30"
                       />
@@ -51,7 +51,7 @@
                     <div class="col-12 col-md-3" style="text-align: right">
                       <img
                         alt="Vue logo"
-                        src="@/assets/whatsapp.png"
+                        src="@/assets/images/whatsapp.png"
                         width="30"
                         height="30"
                       />
@@ -65,7 +65,7 @@
                     <div class="col-12 col-md-3" style="text-align: right">
                       <img
                         alt="Vue logo"
-                        src="@/assets/telefono.png"
+                        src="@/assets/images/telefono.png"
                         width="30"
                         height="30"
                       />
@@ -80,7 +80,7 @@
                     <div class="col-12 col-md-3" style="text-align: right">
                       <img
                         alt="Vue logo"
-                        src="@/assets/gmail.png"
+                        src="@/assets/images/gmail.png"
                         width="30"
                         height="30"
                       />
@@ -94,7 +94,7 @@
                     <div class="col-12 col-md-3" style="text-align: right">
                       <img
                         alt="Vue logo"
-                        src="@/assets/facebook.png"
+                        src="@/assets/images/facebook.png"
                         width="30"
                         height="30"
                       />

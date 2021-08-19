@@ -5,9 +5,9 @@
       Agroservicios Santisima Trinidad
       <br><br>
       <a rel="nofollow" href="https://wa.link/f0gtvk" title="Whatsapp">
-        <img src="@/assets/whatsapp.png"/> </a>
+        <img src="@/assets/images/whatsapp.png"/> </a>
       <a rel="" target="_blank" href="https://www.facebook.com/profile.php?id=100063585042780" title="Facebook">
-        <img src="@/assets/facebook.png"/></a>
+        <img src="@/assets/images/facebook.png"/></a>
     </p>
       
     <p class="m-0 small" style="color: aliceblue;">Copyright &copy; Your Website 2021</p>
