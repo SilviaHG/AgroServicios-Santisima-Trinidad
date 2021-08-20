@@ -348,6 +348,10 @@ export default {
 </script>
 
 <style>
+.imagen-hover {
+    object-fit: cover;
+}
+
 .imagen-hover:hover{ 
     -webkit-transform: scale(1.5);
     transform: scale(1.40)

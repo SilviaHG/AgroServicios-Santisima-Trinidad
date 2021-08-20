@@ -18,7 +18,7 @@ export default new VueRouter({
         {
             path: '/productos-veterinaria',
             name: 'veterinaria',
-            component: require('./components/inicio/Inicio').default,
+            component: require('./components/catalogoVeterinaria/Veterinaria').default,
             meta: {
                 title: 'Catálogo Veterinaria',
                 auth: true
