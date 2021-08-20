@@ -5,7 +5,12 @@
         </div>
 
         <div class="row | mt-5 | m-1">
-            <CardsStore></CardsStore>    
+            <CardsStore></CardsStore>
+        </div>
+
+        <div class="row | mt-5 | m-1">
+            <h2>~ Testimonios</h2>
+            <FeedBacksClients></FeedBacksClients>
         </div>
 
     </div>
@@ -14,12 +19,14 @@
 <script>
 import Carousel from './Carousel.vue'
 import CardsStore from './CardsTienda.vue'
+import FeedBacksClients from './FeedBacksClients.vue'
 
 export default {
     name: 'Inicio',
     components: {
         Carousel,
-        CardsStore
+        CardsStore,
+        FeedBacksClients
     }
 }
 </script>
