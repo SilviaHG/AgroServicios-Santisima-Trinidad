@@ -3,12 +3,13 @@
 
         <div class="row">
             <div class="col-3 | mt-2 | mx-auto">
-                <button type="button" class="btn btn-primary | btn-lg">
+                
+                <a rel="" target="_blank" href="https://wa.link/f0gtvk" title="Facebook">
+         <button type="button" class="btn btn-primary | btn-lg">
                     Hacer pedido
-                </button>
+                </button> </a>
             </div>
         </div>
-
         <!-- Primer fila de imágenes -->
         <hr>
         <div class="row">

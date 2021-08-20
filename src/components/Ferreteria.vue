@@ -5,11 +5,13 @@
 <div class="row">
     <div class="col-12">
 
-        <div class="row justify-content-center">
+        <div class="col-3 | mt-2 | mx-auto">
             <br><br>
-            <button type="submit" class="btn btn-primary "
+        <a rel="" target="_blank" href="https://wa.link/f0gtvk" title="Facebook">
+                 <button type="submit" class="btn btn-primary "
             id="btn-hacerpedido" style="background-color: #318BCA ; width:100px; height:60px; margin-top: 15px;border: none;color: aliceblue;">Hacer pedido</button>
-            
+            </a>
+
         </div>
         <br><br>
     </div>
