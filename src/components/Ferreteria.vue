@@ -1,6 +1,6 @@
 <template>
 
-<div id="PFerreteria">
+<div id="PFerreteria" class="container">
 
 <div class="row">
     <div class="col-12">
@@ -20,7 +20,7 @@
 <hr>
 <div class="row">
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img  alt="Alambre" src="@/assets/images/ferreteria/01-alambredepuas.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Alambre de Púas</h5>
@@ -29,7 +29,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Cautin" src="@/assets/images/ferreteria/02-cautin.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Cautín</h5>
@@ -38,7 +38,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Cepillo" src="@/assets/images/ferreteria/03-cepilloelectrico.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Cepillo Eléctrico</h5>
@@ -47,7 +47,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-         <div class="card" style="width: 18rem;">
+         <div class="card" style="width: 100%;">
             <img alt="Discos" src="@/assets/images/ferreteria/04-discos.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Discos</h5>
@@ -60,7 +60,7 @@
 <hr>
 <div class="row">
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Esmeriladora" src="@/assets/images/ferreteria/05-esmeriladoranagular.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Esmeriladora Angular</h5>
@@ -69,7 +69,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Fregadero" src="@/assets/images/ferreteria/06fregadero.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Fregadero</h5>
@@ -78,7 +78,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Kit de brocas" src="@/assets/images/ferreteria/07-kitdebrocas.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Kit de Brocas</h5>
@@ -87,7 +87,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Kit soldador" src="@/assets/images/ferreteria/08-kitsoldador.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Kit Soldador</h5>
@@ -100,7 +100,7 @@
 <hr>
 <div class="row">
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Lavamanos" src="@/assets/images/ferreteria/09-lavamanos.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Lavamanos</h5>
@@ -109,7 +109,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Lijadora" src="@/assets/images/ferreteria/10-lijadora.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Lijadora</h5>
@@ -118,7 +118,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Manguera" src="@/assets/images/ferreteria/11-Manguera.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Manguera</h5>
@@ -127,7 +127,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Máscara de soldar" src="@/assets/images/ferreteria/12-mascaradesoldar.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Máscara de Soldar</h5>
@@ -140,7 +140,7 @@
 <hr>
 <div class="row">
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Pulidora" src="@/assets/images/ferreteria/13-pulidora.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Pulidora</h5>
@@ -149,7 +149,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Romanas" src="@/assets/images/ferreteria/14-romanas.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Romanas</h5>
@@ -158,7 +158,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Sierra circular" src="@/assets/images/ferreteria/15-sierracircular.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Sierra Circular</h5>
@@ -167,7 +167,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Taladro" src="@/assets/images/ferreteria/16-taladro.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Taladro</h5>
@@ -180,7 +180,7 @@
 <hr>
 <div class="row">
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Tornillos" src="@/assets/images/ferreteria/17-tornillos.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Tornillos</h5>
@@ -189,7 +189,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Tubos" src="@/assets/images/ferreteria/18-tubos.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Tubos</h5>
@@ -198,7 +198,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Mecate" src="@/assets/images/ferreteria/19-mecates.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Mecate</h5>
@@ -207,7 +207,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Zinc" src="@/assets/images/ferreteria/20-zinclaminado.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Zinc Laminado</h5>
@@ -220,7 +220,7 @@
 <hr>
 <div class="row">
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Delantal" src="@/assets/images/ferreteria/21-delantal.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Delantal para Guadañar</h5>
@@ -229,7 +229,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Riego" src="@/assets/images/ferreteria/22-riego.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Pistola de Riego</h5>
@@ -238,7 +238,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Estuches" src="@/assets/images/ferreteria/23-estuches.png" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Estuches para celular de cuero</h5>
@@ -247,7 +247,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Rastrillo" src="@/assets/images/ferreteria/24-rastrillo.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Rastrillos</h5>
@@ -260,7 +260,7 @@
 <hr>
 <div class="row">
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Machete" src="@/assets/images/ferreteria/25-machetes.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Machetes</h5>
@@ -269,7 +269,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Hacha" src="@/assets/images/ferreteria/26-hacha.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Hacha</h5>
@@ -278,7 +278,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Herramienta de jardin" src="@/assets/images/ferreteria/27-herramientasjardin.png" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Herramientas de Jardín</h5>
@@ -287,7 +287,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Linterna" src="@/assets/images/ferreteria/28-linterna.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Linterna</h5>
@@ -300,7 +300,7 @@
 <hr>
 <div class="row">
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">   
+        <div class="card" style="width: 100%;">   
             <img alt="Bombas" src="@/assets/images/ferreteria/29-bombas.png" class="card-img-top | imagen-hover" width="300" height="300" > 
             <div class="card-body">
                 <h5 class="card-title">Bombas</h5>
@@ -309,7 +309,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Estañones" src="@/assets/images/ferreteria/30-estañones.png" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Estañones</h5>
@@ -318,7 +318,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Montura" src="@/assets/images/ferreteria/31-montura.png" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Monturas</h5>
@@ -327,7 +327,7 @@
         </div>
     </div>
     <div class="col-12 col-md-3">
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 100%;">
             <img alt="Carretillo" src="@/assets/images/ferreteria/32-carretillo.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Carretillos</h5>
