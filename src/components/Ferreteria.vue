@@ -77,7 +77,7 @@
     </div>
     <div class="col-12 col-md-3">
         <div class="card" style="width: 18rem;">
-            <img alt="Kit de brocas" src="@/assets/images/ferreteria/07-kitdebrocas.jpg" class="car | imagen-hoverd-img-top" width="300" height="300"/>
+            <img alt="Kit de brocas" src="@/assets/images/ferreteria/07-kitdebrocas.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Kit de Brocas</h5>
                 <p class="card-text"></p>
@@ -86,7 +86,7 @@
     </div>
     <div class="col-12 col-md-3">
         <div class="card" style="width: 18rem;">
-            <img alt="Kit soldador" src="@/assets/images/ferreteria/08-kitsoldador.jpg" class="card-im | imagen-hoverg-top" width="300" height="300"/>
+            <img alt="Kit soldador" src="@/assets/images/ferreteria/08-kitsoldador.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Kit Soldador</h5>
                 <p class="card-text"></p>
@@ -126,7 +126,7 @@
     </div>
     <div class="col-12 col-md-3">
         <div class="card" style="width: 18rem;">
-            <img alt="Máscara de soldar" src="@/assets/images/ferreteria/12-mascaradesoldar.jpg" class="car | imagen-hoverd-img-top" width="300" height="300"/>
+            <img alt="Máscara de soldar" src="@/assets/images/ferreteria/12-mascaradesoldar.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Máscara de Soldar</h5>
                 <p class="card-text"></p>
@@ -157,7 +157,7 @@
     </div>
     <div class="col-12 col-md-3">
         <div class="card" style="width: 18rem;">
-            <img alt="Sierra circular" src="@/assets/images/ferreteria/15-sierracircular.jpg" class="card-im | imagen-hoverg-top" width="300" height="300"/>
+            <img alt="Sierra circular" src="@/assets/images/ferreteria/15-sierracircular.jpg" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Sierra Circular</h5>
                 <p class="card-text"></p>
@@ -277,7 +277,7 @@
     </div>
     <div class="col-12 col-md-3">
         <div class="card" style="width: 18rem;">
-            <img alt="Herramienta de jardin" src="@/assets/images/ferreteria/27-herramientasjardin.png" class="car | imagen-hoverd-img-top" width="300" height="300"/>
+            <img alt="Herramienta de jardin" src="@/assets/images/ferreteria/27-herramientasjardin.png" class="card-img-top | imagen-hover" width="300" height="300"/>
             <div class="card-body">
                 <h5 class="card-title">Herramientas de Jardín</h5>
                 <p class="card-text"></p>

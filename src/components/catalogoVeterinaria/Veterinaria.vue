@@ -73,7 +73,7 @@
             </div>
             <div class="col-12 col-md-3">
                 <div class="card" style="width: 18rem;">
-                    <img alt="Kit de brocas" src="@/assets/images/veterinaria/conejos-venta.jpg" class="car | imagen-hoverd-img-top" width="100%" height="300px"/>
+                    <img alt="Kit de brocas" src="@/assets/images/veterinaria/conejos-venta.jpg" class="card-img-top | imagen-hover" width="100%" height="300px"/>
                     <div class="card-body">
                         <h5 class="card-title">Conejos</h5>
                         <p class="card-text"></p>
@@ -82,7 +82,7 @@
             </div>
             <div class="col-12 col-md-3">
                 <div class="card" style="width: 18rem;">
-                    <img alt="Kit soldador" src="@/assets/images/veterinaria/alimentos-1st-choiceNutrition.jpg" class="card-im | imagen-hoverg-top" width="100%" height="300px"/>
+                    <img alt="Kit soldador" src="@/assets/images/veterinaria/alimentos-1st-choiceNutrition.jpg" class="card-img-top | imagen-hover" width="100%" height="300px"/>
                     <div class="card-body">
                         <h5 class="card-title">Todos 1st Choice Nutrition Gatos y Perros</h5>
                         <p class="card-text"></p>
