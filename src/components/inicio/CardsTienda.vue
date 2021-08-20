@@ -23,7 +23,7 @@
 
                 <h2>Jardinería</h2>
                 <p>Ofrecemos variedades de productos de jardinería, desde herramientas hasta semillas..</p>
-                <p><router-link class="btn | btn-warning | m-3" :to="{name: 'veterinaria'}">Ir al catálogo 🌱</router-link></p>
+                <p><router-link class="btn | btn-warning | m-3" :to="{name: 'jardineria'}">Ir al catálogo 🌱</router-link></p>
             </div>
         </div>
 

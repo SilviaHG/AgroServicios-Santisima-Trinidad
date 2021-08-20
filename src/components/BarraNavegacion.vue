@@ -22,6 +22,9 @@
               <router-link class="nav-link" aria-current="page" :to="{name: 'construccion'}">Productos Construcción</router-link>
             </li>
             <li class="nav-item">
+              <router-link class="nav-link" aria-current="page" :to="{name: 'jardineria'}">Productos Jardinería</router-link>
+            </li>
+            <li class="nav-item">
               <router-link class="nav-link" aria-current="page" :to="{name: 'contactenos'}">Contáctenos</router-link>
             </li>
           </ul>

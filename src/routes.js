@@ -34,6 +34,15 @@ export default new VueRouter({
             },
         },
         {
+            path: '/productos-jardineria',
+            name: 'jardineria',
+            component: require('./components/catalogoJardineria/Jardineria').default,
+            meta: {
+                title: 'Catálogo Jardinería',
+                auth: true
+            },
+        },
+        {
             path: '/contactenos',
             name: 'contactenos',
             component: require('./components/Contacto').default,
